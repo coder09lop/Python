@@ -41,7 +41,7 @@ def main() -> None:
     """
     kmap = [[0, 1], [1, 1]]
 
-    # Manually generate the product of [0, 1] and [0, 1]
+    # Manually generate the product of [0, 1] and (0, 1)
 
     for row in kmap:
         print(row)
